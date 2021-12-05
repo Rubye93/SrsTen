@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SrsTen</string>
+    <string name="navigation_item_one">Page 1</string>
+    <string name="navigation_item_two">Page 2</string>
+    <string name="choose_item">Choose item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_one">Page 1</string>
+    <string name="page_two">Page 2</string>
+    <string name="Right">right</string>
+    <string name="Left">Left</string>
+</resources>
